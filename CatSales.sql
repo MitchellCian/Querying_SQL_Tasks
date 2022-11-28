@@ -1,0 +1,1 @@
+EXEC [SalesByCategory] @OrdYear ='1998', @CategoryName ='Seafood'
